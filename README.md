@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luongleafer
 - 👀 I’m interested in programming and origami
-- 🌱 I’m currently learning to make games in Godot and learn about Linux OS
+- 🌱 I’m currently learning to make softwares.
 
 <!---
 luongleafer/luongleafer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
